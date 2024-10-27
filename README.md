@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natha-leb
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on all project
-- 📫 How to contact me -> admin@myshop3d.fr
+- 📫 How to contact me -> contact@myshop3d.fr
 - ⚡ Fun fact: no fun fact, sorry
 
 <!---
